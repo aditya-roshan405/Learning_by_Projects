@@ -1,6 +1,6 @@
 # Telco Customer Churn Prediction using Random Forest
 
-**Student:** Aadi | Roll No: 24BAI10227
+**Student:** Aditya Roshan Singh
 **Program:** B.Tech – AI & Machine Learning | VIT Bhopal University
 **Project Type:** ML Mini Project – High-Performance Prediction (Bagging)
 **Algorithm:** Random Forest Classifier
