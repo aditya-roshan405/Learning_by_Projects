@@ -1,0 +1,8 @@
+role,required_skills,description
+Data Analyst,"python,sql,excel,data analysis,power bi,data visualization",Analyzes data to help companies make better business decisions.
+Machine Learning Engineer,"python,machine learning,scikit-learn,tensorflow,deep learning,sql",Builds and deploys machine learning models for real world use.
+Web Developer,"html,css,javascript,react,node.js,git",Builds and maintains websites and web applications.
+Python Backend Developer,"python,django,flask,rest api,sql,git",Builds server side logic and APIs using Python frameworks.
+Data Scientist,"python,machine learning,pandas,numpy,nlp,data visualization",Uses statistics and ML to find patterns and insights in data.
+Cloud Engineer,"aws,azure,docker,kubernetes,linux,gcp",Manages and deploys applications on cloud platforms.
+Software Engineer,"python,java,c++,git,problem solving,sql",Designs and builds software applications and systems.
