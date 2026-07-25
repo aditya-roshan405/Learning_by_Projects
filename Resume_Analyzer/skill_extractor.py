@@ -7,7 +7,7 @@ resume's text.
 from utils import load_csv
 
 
-def get_all_skills(skill_csv_path: str = "data\skill_dictionary.csv") -> list[str]:
+def get_all_skills(skill_csv_path: str = "data/skill_dictionary.csv") -> list[str]:
     """Load the master skill list from the CSV file."""
     df = load_csv(skill_csv_path)
     return df["skill"].str.lower().tolist()
