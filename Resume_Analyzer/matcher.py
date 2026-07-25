@@ -25,7 +25,7 @@ def get_match_score(resume_text: str, job_text: str) -> float:
     tfidf_matrix = vectorizer.fit_transform([resume_clean, job_clean])
 
     similarity = cosine_similarity(tfidf_matrix[0], tfidf_matrix[1])
-    score = round(similarity[0][0] * 100, 2)
+    score = round(similarity[0][0] * 10, 2)
     return score
 
 
